@@ -1,0 +1,10 @@
+{
+  "name": "reshmila-erandi-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Reshmila Erandi's professional data analytics portfolio",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node server.mjs"
+  }
+}
